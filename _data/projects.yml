@@ -1,9 +1,10 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: BookStore
+  link: https://shielded-sierra-95814.herokuapp.com
+  github: madaramefarrell/BookStore
   quote: >
-    Short overview of the project (optional)
+  #  Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    BookStore 是一個簡易的書籍購物車，可以透過註冊帳號或者使用 OAuth 登入成為一般消費者，將欲購項目加入購物車清單後使用 PayPal 線上付款。  
+    作為學習 Django 的一個小成品，除了使用 Django 之外，為了可以使用社交網站的客戶端憑證而採用 OAuth ，線上付款則使用串接（PayPal）金流。

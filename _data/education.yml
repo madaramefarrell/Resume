@@ -1,9 +1,24 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: 國立虎尾科技大學
+  dates: 2014 - 2018
+  qualification: 資訊工程所
   quote: >
-    Short institution or course description (optional)
+#    Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    研究 SDN 並以流量平衡為目標制定路由策略，  
+    選擇採用 Python 當作開發語言的 Mininet 部署模擬環境以及  
+    Ryu controller 作為控制器向 Open vSwitch 發布路由策略。  
+    以 Shell script 腳本語言編寫流量發送機制，模擬現實網路環境。
+# Education Template
+- layout: left
+  name: 國立虎尾科技大學
+  dates: 2010 - 2014
+  qualification: 資訊工程系
+  quote: >
+#    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    擔任系上網管，接觸到以 Cisco 為主的網路設備，管理系上內部網路配置以及對外服務。  
+    透過 VMware vSphere 在 Linux-like OS 上架設網頁服務。  
+    畢業專題裡負責後端資料存取及資料表規劃，  
+    使用 MySQL 做為資料庫及使用 PHP 設計 API，讓前端可以間接存取遠端資料庫。 

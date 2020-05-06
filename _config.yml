@@ -3,35 +3,32 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: 王章吉（Zhang-Ji Wang）
+#title: Your job title
+email: thelegendko@gmail.com
+#phone: Your phone number (optional)
+website: https://madaramefarrell.github.io/Resume
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+# twitter_username: jekyllrb
+github_username:  madaramefarrell
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+linkedin_username: farrell-madarame-428b219a
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,13 +43,11 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  我叫王章吉。  
+  研究所畢業後於2019年服完兵役。就學期間擔任過系網管、使用 PHP&MySQL 製作網站後端以及使用 Javascript 製作過網站爬蟲。研究所主要研究 SDN ，使用基於 Python 的框架進行實驗，並有過使用 Djanogo 開發網站的經驗。
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  曾使用過以下技能進行開發：
+  <mark>Python</mark>、<mark>MySQL</mark>、<mark>Django</mark>、<mark>PHP</mark>、<mark>Javascript</mark>、<mark>Shell script</mark>、<mark>Firewall</mark>、<mark>Ubuntu/Ubuntu Server</mark>
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
