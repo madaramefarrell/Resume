@@ -1,10 +1,12 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: 國立虎尾科技大學資訊工程系
+  link: http://csie.nfu.edu.tw/zh/
+  job_title: 網路管理員
+  dates: 2013/9 - 2015/9
   quote: >
-   Short description of the company (optional)
+   
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    操作 Csico 為主的網路設備管理系上內部網路以及對外服務，  
+    依據教授要求建置、維護包括系網在內的網路服務。  
+    操作以 Ubuntu/Ubuntu server 為主的 Linux-like 環境，並使用 VMware vSphere 虛擬化技術管理網路伺服器。
