@@ -9,4 +9,4 @@
   description: | # this will include new lines to allow paragraphs
     操作 Csico 為主的網路設備管理系上內部網路以及對外服務，  
     依據教授要求建置、維護包括系網在內的網路服務。  
-    操作以 Ubuntu/Ubuntu server 為主的 Linux-like 環境，並使用 VMware vSphere 虛擬化技術管理網路伺服器。
+    操作以 Ubuntu 為主的 Linux-like 環境，並使用 VMware vSphere 虛擬化技術管理伺服器。
