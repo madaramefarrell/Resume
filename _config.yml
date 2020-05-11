@@ -45,8 +45,8 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   我叫王章吉。  
   研究所畢業後於2019年服完兵役，目前待業中。  
-  就學期間擔任過系網管、使用 PHP&MySQL 製作網站後端以及使用 Javascript 製作過網站爬蟲。研究所主要研究 SDN ，使用基於 Python 的框架進行實驗，並有過使用 Djanogo 開發網站的經驗。
-
+  就學期間擔任過系網管、使用 PHP&MySQL 製作網站後端以及使用 Javascript 製作過網站爬蟲。研究所主要研究 SDN ，使用基於 Python 的框架進行實驗，並有過使用 Djanogo 開發網站的經驗。  
+  &emsp;  
   曾使用過以下工具以及開發環境：
   <mark>Python</mark>、<mark>Django</mark>、<mark>Flask</mark>、<mark>PHP</mark>、<mark>MySQL</mark>、<mark>Javascript</mark>、<mark>Shell script</mark>、<mark>macOS</mark>、<mark>Ubuntu/Ubuntu Server</mark>
  

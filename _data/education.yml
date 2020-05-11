@@ -7,8 +7,7 @@
 #    Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     研究 SDN 並以平衡網路流量為目標制定路由策略，  
-    選擇將 Python 作爲開發語言的 Mininet 部署模擬環境以及  
-    Ryu controller 作為控制器向 Open vSwitch 發布路由策略。  
+    選擇將 Python 作爲開發語言的 Mininet 部署模擬環境以及 Ryu controller 作為控制器向 Open vSwitch 發布路由策略。  
     以 Shell script 腳本語言編寫流量發送機制，使模擬結果更貼近現實環境。
 
 # Education Template
@@ -20,6 +19,5 @@
 #    Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
     擔任系上網管，接觸到以 Cisco 為主的網路設備，負責管理系上內部網路配置以及對外服務。  
-    透過 VMware vSphere 在 Linux-like OS 上架設網頁服務。  
-    畢業專題裡負責後端資料存取及資料表規劃，  
+    透過 VMware vSphere 在 Linux-like OS 上架設網頁服務。畢業專題裡負責後端資料存取及資料表規劃，  
     使用 MySQL 做為資料庫及使用 PHP 設計 API，讓前端可以間接存取遠端資料庫。 

@@ -15,4 +15,4 @@
   quote: >
   #  Short overview of the project (optional)
   description: | # this will include new lines to allow paragraphs
-    使用基於 Javascript 的瀏覽器自動化測試工具 CasperJS 編寫網路爬蟲。在教育部網站上註冊學生網域帳號、修改使用者資訊並模擬使用者行為。
+    使用基於 Javascript 的瀏覽器自動化測試工具 CasperJS 編寫網路爬蟲。爬蟲模擬使用者於教育部網站上註冊學生網域帳號、修改使用者資訊等行為。
