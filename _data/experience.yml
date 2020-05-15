@@ -7,5 +7,4 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    操作 Cisco 為主的網路設備管理系上內部網路以及依據教授要求建置、維護對外服務。  
-    操作以 Ubuntu 為主的 Linux-like 環境，並使用 VMware vSphere 虛擬化技術管理伺服器。
+    規劃 IP 表、維護使用 PHP 跟 MySQL 建置的系網、架設網路服務及調整防火牆配置。
