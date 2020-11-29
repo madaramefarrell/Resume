@@ -7,7 +7,7 @@ name: 王章吉（Zhang-Ji Wang）
 #title: Your job title
 email: thelegendko@gmail.com
 #phone: Your phone number (optional)
-website: https://madaramefarrell.github.io/Resume/
+website: https://madaramefarrell.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -43,12 +43,11 @@ linkedin_username: farrell-madarame-428b219a
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  我叫王章吉。  
-  研究所畢業後於2019年服完兵役，目前待業中。  
-  就學期間擔任過系網管、製作過使用 PHP、MySQL 網站以及使用 Javascript 製作過網站爬蟲。研究所研究領域為 SDN ，使用 Python 進行實驗，並有過使用 Django 開發網站的經驗。  
+  我叫王章吉，目前在美樂蒂文教科技興業股份有限公司擔任後端工程師，使用 Django 開發 GraphQL API server，採用 AWS 部署服務。   
+  就學期間擔任過系網管、使用 PHP、MySQL 開發網站、手機後端以及使用 Javascript 製作過網站爬蟲。  
   &emsp;  
   曾使用過以下工具以及開發環境：
-  <mark>Python</mark>、<mark>Django</mark>、<mark>Flask</mark>、<mark>PHP</mark>、<mark>MySQL</mark>、<mark>Javascript</mark>、<mark>Shell script</mark>、<mark>macOS</mark>、<mark>Ubuntu</mark>
+  <mark>Python</mark>、<mark>Django</mark>、<mark>Graphene-Django</mark>、<mark>PHP</mark>、<mark>MySQL</mark>、<mark>Javascript</mark>、<mark>Shell script</mark>、<mark>macOS</mark>、<mark>Ubuntu</mark>
  
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)

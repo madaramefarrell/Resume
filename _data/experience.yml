@@ -7,4 +7,16 @@
   quote: >
    
   description: | # this will include new lines to allow paragraphs
-    規劃 IP 表、維護使用 PHP 跟 MySQL 建置的系網、架設網路服務及調整防火牆配置。
+    維護使用 PHP 跟 MySQL 建置的網站。  
+    管理系上 Cisco 網路設備、規劃 IP 表、調整內部網路及對外防火牆規則。 
+
+# Experience template
+- layout: left
+  company: 美樂蒂文教科技興業股份有限公司
+  job_title: 後端工程師
+  dates: 2020/7 -  至今
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+    開發 GraphQL API server 、 建置 Dajngo Admin site 並使用 JWT 實作認證機制。  
+    使用工具：Django、GraphQL、Graphene-Django、Django GraphQL JWT、EC2、Elastic Beanstalk、S3 以及 RDS。
