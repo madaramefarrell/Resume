@@ -19,4 +19,4 @@
    
   description: | # this will include new lines to allow paragraphs
     開發 GraphQL API server 、 建置 Dajngo Admin site 並使用 JWT 實作認證機制。  
-    使用工具：Django、GraphQL、Graphene-Django、Django GraphQL JWT、EC2、Elastic Beanstalk、S3 以及 RDS。
+    使用工具：Django、GraphQL、Graphene-Django、Django GraphQL JWT、MongoDB、PostgreSQL、EC2、Elastic Beanstalk、S3 以及 RDS。
