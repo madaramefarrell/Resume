@@ -44,7 +44,9 @@ linkedin_username: farrell-madarame-428b219a
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   我是王章吉，畢業於國立虎尾科技大學資訊工程研究所，於 2020 年開始擔任美樂蒂文教科技興業股份有限公司的後端工程師。
+
   在職期間負責與客戶協調需求、開發及維護線上考試系統後端、協助專案部署，使用過 AWS 的 RDS、CloudFront 及 S3。專案開發上使用 Django 撰寫 GraphQL API、RESTful API 以及使用 JWT 授權及認證。
+  
   工作至今將滿一年，個人生涯規劃與公司目標開始產生偏差，目前正在找尋新的發展環境，期望可以遇到許多願意擁抱新技術及開發模式的夥伴。
 
   &emsp;  
